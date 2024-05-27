@@ -1093,6 +1093,14 @@ audio {
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
 }
+.balloons img {
+	display: block;
+	width: 100px;
+	height: 100px;
+
+	border-radius: 50%;
+	display: none;
+}
 #b1,#b11 {
 	background-image: url('../images/b1.png');
 }
